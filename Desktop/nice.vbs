@@ -4,6 +4,6 @@ Case vbNo
     MsgBox("Bye")
 Case vbYes
     Set shell = CreateObject("WScript.Shell")
-    shell.Run "C:\Users\bbean\Desktop\nice.bat"
+    shell.Run "/nice.bat"
     MsgBox("Damn you really thought, time for ILYCS")
 End Select
