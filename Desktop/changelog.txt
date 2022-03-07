@@ -1,0 +1,23 @@
+v0.0.0:
+Initial upload version.
+
+v0.0.1:
+Additions to game as well as fixes to bugs.
+
+v0.0.2:
+Bug fixes and additions to sfx and vfx.
+
+v0.0.3:
+Many bug fixes and script updates.
+
+v0.0.4:
+Various bug fixes in the script and in saves functionality.
+
+v1.0.0
+Various bug fixes.
+
+v1.0.1
+Updated credits.
+-- Fixed a bug where sound wasn't playing after loads.
+-- Fixed a bug where loadslot was going back to 2 instead of 3.
+-- Charlie Volpe
